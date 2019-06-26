@@ -1,6 +1,6 @@
 # Project 1 - *To Do List App*
 
-**To Do List App* is an android app that allows building a todo list and basic todo items management functionality including adding new items, editing and deleting an existing item.
+**To Do List App** is an android app that allows building a todo list and basic todo items management functionality including adding new items, editing and deleting an existing item.
 
 Submitted by: **Briana Berger**
 
@@ -26,7 +26,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src="DemoOfToDoList.gif" width=200><br>
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
